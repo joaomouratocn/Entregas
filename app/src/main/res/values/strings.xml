@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="str_current_value">Current value</string>
+    <string name="str_payment">Payment</string>
+    <string name="str_delivery">Delivery</string>
+    <string name="str_date">Date</string>
+    <string name="str_delivery_report">Delivery report</string>
+    <string name="str_op" translatable="false">Op</string>
+    <string name="str_value">Value</string>
+    <string name="str_description">Description</string>
+    <string name="str_e_delivery"><![CDATA[E-> Delivery]]></string>
+    <string name="str_p_payment"><![CDATA[P-> Payment]]></string>
+    <string name="str_tot">Tot:</string>
+    <string name="str_insert_value_release">Insert value release</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_save">Save</string>
+    <string name="str_release_delivery">Release delivery</string>
+    <string name="str_insert_the_value_o_release">Insert the value o release</string>
+    <string name="str_insert_date_of_release">Insert date of release</string>
+    <string name="str_define_date_of_release">Define date of release</string>
+    <string name="str_update_release">Update release</string>
+    <string name="str_release_payment">Release payment</string>
+    <string name="str_description_release">Description release</string>
+    <string name="str_insert_release">Insert release</string>
+    <string name="str_insert">Insert</string>
+    <string name="str_show_delivery">Delivery</string>
+    <string name="str_show_payment">Payment</string>
+    <string name="str_show_all">All</string>
+    <string name="str_to_received">To received:</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entregas</string>
+    <string name="str_current_value">Valor atualizado</string>
+    <string name="str_payment">Pagamento</string>
+    <string name="str_delivery">Entrega</string>
+    <string name="str_date">Data</string>
+    <string name="str_delivery_report">Relatório de entregas</string>
+    <string name="str_value">Valor</string>
+    <string name="str_description">Descrição</string>
+    <string name="str_e_delivery"><![CDATA[E-> Entrega]]></string>
+    <string name="str_p_payment"><![CDATA[P-> Pagamento]]></string>
+    <string name="str_tot">Total:</string>
+    <string name="str_insert_value_release">Insira o valor do lançamento</string>
+    <string name="str_cancel">Cancelar</string>
+    <string name="str_save">Salvar</string>
+    <string name="str_release_delivery">Lançar entrega</string>
+    <string name="str_insert_the_value_o_release">Insira o valor do lançamento</string>
+    <string name="str_insert_date_of_release">Insira a data do lançamento</string>
+    <string name="str_define_date_of_release">"Defina a "</string>
+    <string name="str_update_release">Atualizar lançamento</string>
+    <string name="str_release_payment">Lançar pagamento</string>
+    <string name="str_description_release">Descrição lançamento</string>
+    <string name="str_insert_release">Inserir lançamento</string>
+    <string name="str_insert">Inserir</string>
+    <string name="str_show_delivery">Entregas</string>
+    <string name="str_show_payment">Pagamentos</string>
+    <string name="str_show_all">Todos</string>
+    <string name="str_to_received">Receber: </string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Entregas" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_dark</item>
+    </style>
+
+    <style name="Theme.Entregas" parent="Base.Theme.Entregas" />
+
+    <style name="buttonCustom" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="bg_header">
+        <item name="android:background">@color/primary</item>
+    </style>
+
+    <style name="textCustom" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="fabCustom" parent="ThemeOverlay.Material3.FloatingActionButton.Primary">
+        <item name="android:textColor">@color/black</item>
+        <item name="iconTint">@color/black</item>
+    </style>
+</resources>
