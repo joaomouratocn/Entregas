@@ -1,6 +1,6 @@
 # Entregas
 
-Aplicativo desenvolvido com intuito de gerenciar ganhos diarios com entregas, onde são inseridos os valores que o usuario fez e os valores que ele recebeu, assim o aplicativo calcula e armazena os valores.
+Aplicativo desenvolvido com intuito de gerenciar ganhos diarios com entregas, onde são inseridos os valores que o usuário fez e os valores que ele recebeu, assim o aplicativo calcula e armazena os valores.
 
 | Tema claro                   | Tema escuro                        | Inserir um valor                     |
 |------------------------------------|--------------------------------------------------|------------------------------------------------|
